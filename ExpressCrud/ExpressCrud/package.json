@@ -1,0 +1,20 @@
+{
+  "name": "express-crud",
+  "version": "0.0.0",
+  "description": "ExpressCrud",
+  "main": "app.js",
+  "author": {
+    "name": "Josué Danilo Galindo"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "3.4.4",
+    "express-myconnection": "^1.0.4",
+    "express-mysql": "0.0.1",
+    "jade": "*",
+    "morgan": "^1.8.1",
+    "mysql": "^2.13.0",
+    "pug": "^2.0.0-rc.1",
+    "stylus": "*"
+  }
+}
